@@ -1,4 +1,7 @@
-# Just run
+# How to run
+
+In your shell, just run
+
 ```sh
 docker run uiratan/fullcycle
 ```
