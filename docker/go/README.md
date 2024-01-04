@@ -1,11 +1,6 @@
-# How to run this program
-
-1. Build the docker image
+# Just run
 ```sh
-docker build -t hello-go .
+docker run uiratan/fullcycle
 ```
 
-2. Run the docker container
-```sh
-docker run hello-go
-```
+This image is located at https://hub.docker.com/repository/docker/uiratan/fullcycle/general
